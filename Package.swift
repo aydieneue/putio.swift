@@ -25,7 +25,8 @@ let package = Package(
             dependencies: [
                 "Alamofire",
                 "SwiftyJSON"
-            ]
+            ],
+            path: "PutioAPI"
         )
     ]
 )
